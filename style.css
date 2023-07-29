@@ -1,20 +1,38 @@
 html {
-    height: 100%;
-    width: 100%;
-    font-family: monospace;
-  }
-  
-  .title {
-      text-align: center;
-  }
-  
-  p {
-    margin-left: 100px;
-    margin-right: 100px;
-  }
-  
-  h3 {
-    margin-left: 100px;
-    margin-right: 100px;
-  }
-  
+  height: 100%;
+  width: 100%;
+  font-family: monospace;
+}
+
+header {
+  text-align: center;
+  background-color: grey;
+  color: white;
+  padding: 1rem;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.headshot {
+  width: 150px;
+  height: 200px;
+}
+
+p {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.about p {
+  margin-left: 20px;
+}
+
+h3 {
+  margin-left: 200px;
+  margin-right: 200px;
+}

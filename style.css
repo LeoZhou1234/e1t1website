@@ -32,6 +32,16 @@ p {
   margin-left: 20px;
 }
 
+.photos {
+  width: 192px;
+  height: 108px;
+}
+
+.photography {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
 h3 {
   margin-left: 200px;
   margin-right: 200px;
